@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-  <img height="9" src="https://i.imgur.com/PvAbpvx.png"> &
-  <img height="13" src="https://i.imgur.com/rEzWrXJ.png">
 </p>
 
 
