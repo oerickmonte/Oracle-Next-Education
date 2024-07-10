@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <h3 align="center">Arquivo com exercícios feito no programa Oracle Next Education
+    <h3 align="center">Repositório com exercícios feito no programa Oracle Next Education
     </h3>
 </p>
 
